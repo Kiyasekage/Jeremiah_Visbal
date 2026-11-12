@@ -3,7 +3,7 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  👤 <b>Name:</b> Your Name <br>
+  👤 <b>Name:</b> Jeremiah Visbal <br>
   📍 <b>Location:</b> Bali, Indonesia <br>
   🎓 <b>Education:</b> High School Graduate
 </p>

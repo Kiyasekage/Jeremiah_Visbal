@@ -1,6 +1,4 @@
-<p align="center">
-Jeremiah_Visbal
-</p>
+<h2 align="center">Jeremiah Visbal</h2>
 
 <h2 align="center">ABOUT ME</h2>
 

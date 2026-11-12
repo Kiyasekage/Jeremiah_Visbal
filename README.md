@@ -1,4 +1,4 @@
-<h2 align="center">Jeremiah Visbal</h2>
+<h3 align="center">Jeremiah Visbal</h3>
 
 <h2 align="center">ABOUT ME</h2>
 
